@@ -1,0 +1,47 @@
+.card {
+  background: #F7F7FA;
+  padding: 25px;
+  list-style: none;
+
+}
+
+.card__image {
+  display: block;
+  width: 100%;
+  width: 290px;
+  height: 245px;
+  margin-bottom: 30px;
+}
+
+.card__category {
+  display: block;
+  font-size: 12px;
+  line-height: 24px;
+  color: #A5A3B9;
+  text-transform: uppercase;
+}
+
+.card__name {
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.card__description {
+  margin-top: 5px;
+}
+
+
+.card__compound {
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.card__price {
+  font-size: 20px;
+}
+
+.card__price span {
+  line-height: 24px;
+  float: right;
+}
